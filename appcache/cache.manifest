@@ -6,4 +6,4 @@ lolcat.jpg
 
 # offline.html will be displayed if the user is offline
 FALLBACK:
-/ offline.html
+/html5-api-examples/appcache/ offline.html
